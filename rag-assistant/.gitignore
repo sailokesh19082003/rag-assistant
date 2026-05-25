@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+*.env
+
+# Models (downloaded at runtime)
+models/
+*.bin
+*.safetensors
+sentence_transformers/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# HuggingFace cache (sentence transformers downloads here)
+~/.cache/huggingface/
