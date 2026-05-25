@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by navigating to Settings > Security > Change Password. They will need to enter their current password and then their new password twice. Passwords must be at least 8 characters long and contain at least one uppercase letter, one number, and one special character. If a user has forgotten their password, they can click 'Forgot Password' on the login page and a reset link will be sent to their registered email address. The reset link expires after 24 hours. If the email is not received, users should check their spam folder or contact support."
+  },
+  {
+    "title": "Account Deletion",
+    "content": "Users can permanently delete their account by going to Settings > Account > Delete Account. Account deletion is irreversible and will remove all user data including profile information, purchase history, and saved preferences. Before deletion, users are advised to download their data from Settings > Privacy > Download My Data. After submitting the deletion request, the account will be scheduled for deletion after a 30-day grace period during which the user can cancel the deletion by logging back in. After 30 days, all data is permanently erased from our servers."
+  },
+  {
+    "title": "Billing and Payments",
+    "content": "We accept all major credit cards including Visa, MasterCard, American Express, and Discover. We also support PayPal, Apple Pay, and Google Pay. All transactions are secured with 256-bit SSL encryption. Invoices are generated automatically at the start of each billing cycle and sent to the registered email. Users can view and download past invoices from Settings > Billing > Invoice History. To update payment methods, go to Settings > Billing > Payment Methods. If a payment fails, users have a 7-day grace period before service is suspended. Refunds are processed within 5-7 business days."
+  },
+  {
+    "title": "Subscription Plans",
+    "content": "We offer three subscription plans: Free, Pro, and Enterprise. The Free plan includes 5 GB storage, 3 projects, and community support. The Pro plan costs $19/month or $190/year (saving 2 months) and includes 100 GB storage, unlimited projects, priority support, and advanced analytics. The Enterprise plan is custom-priced and includes unlimited storage, SSO, dedicated support, SLA guarantees, and custom integrations. Users can upgrade or downgrade their plan at any time from Settings > Subscription. Downgrades take effect at the end of the current billing cycle. Upgrades take effect immediately."
+  },
+  {
+    "title": "Data Privacy and Security",
+    "content": "We take data privacy seriously and comply with GDPR, CCPA, and other major privacy regulations. User data is encrypted at rest using AES-256 encryption and in transit using TLS 1.3. We do not sell user data to third parties. Users can request a copy of all their data by going to Settings > Privacy > Download My Data, which will be delivered within 30 days. Users can also request data erasure under GDPR's right to be forgotten. Two-factor authentication (2FA) is available and strongly recommended. Supported 2FA methods include authenticator apps (Google Authenticator, Authy) and SMS. Security logs showing login history are available at Settings > Security > Login History."
+  },
+  {
+    "title": "Integrations and API Access",
+    "content": "Our platform supports integrations with over 50 third-party tools including Slack, Zapier, GitHub, Jira, Salesforce, and HubSpot. API access is available on Pro and Enterprise plans. API keys can be generated from Settings > Developer > API Keys. Each account can have up to 5 active API keys. The REST API follows OpenAPI 3.0 specifications and full documentation is available at docs.example.com/api. Rate limits are 1000 requests per hour for Pro and 10,000 requests per hour for Enterprise. Webhook support is available for real-time event notifications. SDKs are available for Python, JavaScript, Ruby, Go, and Java."
+  },
+  {
+    "title": "File Storage and Management",
+    "content": "Files can be uploaded through the web interface, desktop app, or via API. Maximum individual file size is 2 GB for Pro and 10 GB for Enterprise. Supported file types include documents (PDF, DOCX, XLSX, PPTX), images (JPG, PNG, GIF, SVG, WebP), videos (MP4, MOV, AVI), audio (MP3, WAV, AAC), and archives (ZIP, TAR, RAR). Files are automatically virus-scanned on upload. Deleted files are moved to the Trash and permanently deleted after 30 days. File versioning is enabled by default for Pro and Enterprise, keeping the last 50 versions. Files can be shared publicly or with specific users by right-clicking and selecting Share."
+  },
+  {
+    "title": "Team Collaboration Features",
+    "content": "Teams can collaborate in real-time using our platform. To invite team members, go to Settings > Team > Invite Members and enter their email addresses. Team roles include Admin, Editor, and Viewer. Admins can manage members, billing, and settings. Editors can create, edit, and delete content. Viewers have read-only access. Real-time collaboration with live cursors is supported on documents and spreadsheets. Comments and mentions using @username are available on all content types. Activity feeds show recent team actions. Team workspaces allow separating content by department or project. The audit log in Settings > Team > Audit Log tracks all admin actions."
+  },
+  {
+    "title": "Mobile App and Offline Access",
+    "content": "Our mobile apps are available for iOS (iOS 14 and above) and Android (Android 8 and above) on their respective app stores. The mobile app supports offline access for files that have been marked for offline use. To mark files for offline access, open the file and tap the cloud-with-arrow icon. Offline changes sync automatically when connectivity is restored. The desktop app is available for Windows (10 and above), macOS (11 Big Sur and above), and Linux (Ubuntu 18.04 and above) and can be downloaded from our website. Desktop notifications can be configured in the app settings. The mobile app supports biometric authentication including Face ID and fingerprint."
+  },
+  {
+    "title": "Customer Support",
+    "content": "Customer support is available through multiple channels. Free plan users have access to our community forum and knowledge base at help.example.com. Pro plan users get email support with a 24-hour response time (business days) and live chat during business hours (9 AM - 6 PM EST, Monday-Friday). Enterprise users receive dedicated support with a 4-hour SLA, a named account manager, and 24/7 phone support. To contact support, click the Help icon in the bottom-left corner of the app or email support@example.com. For billing inquiries specifically, email billing@example.com. Feature requests can be submitted at feedback.example.com and are reviewed by our product team monthly."
+  }
+]
